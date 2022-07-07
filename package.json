@@ -1,0 +1,20 @@
+{
+  "name": "chatbotrestauradoviu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js"
+  },
+  "keywords": [],
+  "author": "Leonardo",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "express": "^4.18.1",
+    "uid": "^2.0.0",
+    "uuid": "^8.3.2",
+    "venom-bot": "^4.2.0"
+  }
+}
